@@ -1,0 +1,3 @@
+include LICENSE.txt
+include contents.csv
+recursive-include tests *.py
